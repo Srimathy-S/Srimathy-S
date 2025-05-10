@@ -48,9 +48,7 @@ I’m passionate about growing in my career, picking up new tech skills, and int
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.shields.io/badge/github-%23121011.svg">
 |----|----|-----|----|
 
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-</a>
+
 <!--
 **Srimathy-S/Srimathy-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
