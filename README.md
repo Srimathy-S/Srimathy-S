@@ -43,11 +43,13 @@ I’m passionate about growing in my career, picking up new tech skills, and int
 <img title="opencv" alt="opencv" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">|<img title="pandas" alt="pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">|<img title="pytorch" alt="pytorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">|<img title="Scikit_learn" alt="Scikit_learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">|<img title="seaborn" alt="seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">|<img title="Tensorflow" alt="Tensorflow" width="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">
 |----|----|----|----|----|----|----|
 
-
 ### Softwares and Tools:
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.shields.io/badge/github-%23121011.svg">
 |----|----|-----|----|
+## 💬Reach Out To Me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathyofficial/)  
+
 
 
 <!--
