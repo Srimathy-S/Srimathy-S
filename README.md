@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Srimathy-S&color=blue" alt="Srimathy-S" />
 </p>
 
-Welcome to my little world of code!
+Welcome to My Little World of Code!
 ---
 I’m passionate about growing in my career, picking up new tech skills, and interested in making life easier (and a lot more fun).This is the place where I opensource stuff and break things.
 - **📊Passionate about Data Science**
