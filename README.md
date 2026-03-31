@@ -17,7 +17,7 @@ I’m passionate about growing in my career, picking up new tech skills, and int
 - **🤓 Always learning new things**
 - **🔭 I’m currently working on Backend Development**
 - **😅 I have a love/hate relationship with Programming – but we’re working it out!**
-- **🚀I’m currently open for an intern or a new job opportunity**
+- **🚀I’m currently working as an Application Developer**
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
