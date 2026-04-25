@@ -14,7 +14,7 @@ Welcome to My Little World of Code!
 ---
 I’m passionate about growing in my career, picking up new tech skills, and interested in making life easier (and a lot more fun).This is the place where I opensource stuff and break things.
 - **📊Passionate about Data Science**
-- **🤓 Always learning new things**
+- **🤓 Committed to learning new things**
 - **🔭 I’m currently working on Backend Development**
 - **😅 I have a love/hate relationship with Programming – but we’re working it out!**
 - **🚀I’m currently working as an Application Developer**
